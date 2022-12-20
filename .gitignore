@@ -1,2 +1,7 @@
+
 *.exe
-vendor/
+*.out
+vendor
+*_test.go
+config.json
+public/build/
