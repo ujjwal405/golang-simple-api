@@ -1,4 +1,9 @@
-
 *.exe
 *.out
+coverage.out
+*.o
+*.d
+*.tmp
+*.temp
 vendor/
+
