@@ -1,4 +1,5 @@
 
 *.exe
 *.out
-vendor/
+go.mod
+go.sum
